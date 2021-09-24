@@ -1,0 +1,7 @@
+Tányér,100,true,false
+Kanál,100,true,false
+Villa,100,true,false
+Kés,100,true,false
+Pohár,130,false,true
+Tálca,130,true,true
+Szalvéta,400,true,true
